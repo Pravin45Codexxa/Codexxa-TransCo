@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112157433575",
+    "project_id": "codexxa-transco-424006",
+    "storage_bucket": "codexxa-transco-424006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112157433575:android:f4b6193e328472a71ecc42",
+        "android_client_info": {
+          "package_name": "com.codexxatransco.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoR-nl_jaKKdX5K-GfyEU_WZBz6ulJja4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
